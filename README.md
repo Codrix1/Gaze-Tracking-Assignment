@@ -49,8 +49,8 @@ Morse Code Typing enables users to communicate by inputting Morse code through e
 ## Comparative Analysis
 
 ### Time to Enter a Sentence
-- Blink Matrix Encoding: ~2 minutes.
-- Morse Code Typing: ~2 minutes 30 seconds.
+- Blink Matrix Encoding: ~1 minute 30 seconds .
+- Morse Code Typing: ~2 minutes 14 seconds.
 
 ### Learning Curve and Accuracy
 - **Blink Matrix Encoding**:
@@ -62,15 +62,5 @@ Morse Code Typing enables users to communicate by inputting Morse code through e
 ---
 
 ## Installation and Usage
+video Speed has been modified to decrease its size 
 
-### Prerequisites
-- Python 3.7+
-- Webcam for real-time blink detection
-- Required libraries:
-  - `opencv-python`
-  - `GazeTracking`
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo-name.git
