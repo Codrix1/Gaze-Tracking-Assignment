@@ -26,8 +26,8 @@ Morse Code Typing enables users to communicate by inputting Morse code through e
 - **Use Case**: Ideal for beginners or users prioritizing ease of use and accuracy.
 
 #### Demo:
-![Demo Video](https://github.com/Codrix1/Gaze-Tracking-Assignment/blob/main/morse%20demo.gif)
 
+![demo Video](https://github.com/Codrix1/Gaze-Tracking-Assignment/blob/main/gaze_tracking/matrix%20demo.gif)
 
 ![Full Video](https://github.com/Codrix1/Gaze-Tracking-Assignment/blob/main/gaze_tracking/matrix.mp4)
 
@@ -45,6 +45,7 @@ Morse Code Typing enables users to communicate by inputting Morse code through e
 - **Use Case**: Ideal for users willing to invest time in learning Morse code for higher proficiency over time.
 
 #### Demo:
+![Demo Video](https://github.com/Codrix1/Gaze-Tracking-Assignment/blob/main/morse%20demo.gif)
 
 ![Full Video](https://github.com/Codrix1/Gaze-Tracking-Assignment/blob/main/gaze_tracking/morse%20code.mp4)
 
