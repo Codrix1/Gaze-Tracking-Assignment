@@ -26,7 +26,7 @@ Morse Code Typing enables users to communicate by inputting Morse code through e
 - **Use Case**: Ideal for beginners or users prioritizing ease of use and accuracy.
 
 #### Demo:
-![Blink Matrix Encoding Demo](placeholder-for-blink-matrix.gif)
+![Blink Matrix Encoding Demo](atrix.m)
 
 ---
 
