@@ -27,7 +27,7 @@ Morse Code Typing enables users to communicate by inputting Morse code through e
 
 #### Demo:
 
-![demo Video](https://github.com/Codrix1/Gaze-Tracking-Assignment/blob/main/gaze_tracking/matrix%20demo.gif)
+![demo Video](https://github.com/Codrix1/Gaze-Tracking-Assignment/blob/main/matrix%20demo.gif)
 
 ![Full Video](https://github.com/Codrix1/Gaze-Tracking-Assignment/blob/main/gaze_tracking/matrix.mp4)
 
