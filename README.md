@@ -26,7 +26,8 @@ Morse Code Typing enables users to communicate by inputting Morse code through e
 - **Use Case**: Ideal for beginners or users prioritizing ease of use and accuracy.
 
 #### Demo:
-![Blink Matrix Encoding Demo](https://github.com/Codrix1/Gaze-Tracking-Assignment/blob/main/gaze_tracking/matrix.mp4)
+
+![Full Video](https://github.com/Codrix1/Gaze-Tracking-Assignment/blob/main/gaze_tracking/matrix.mp4)
 
 ---
 
@@ -49,8 +50,8 @@ Morse Code Typing enables users to communicate by inputting Morse code through e
 ## Comparative Analysis
 
 ### Time to Enter a Sentence
-- Blink Matrix Encoding: ~2 minutes.
-- Morse Code Typing: ~2 minutes 30 seconds.
+- Blink Matrix Encoding: ~1 minute 30 seconds .
+- Morse Code Typing: ~2 minutes 14 seconds.
 
 ### Learning Curve and Accuracy
 - **Blink Matrix Encoding**:
@@ -60,17 +61,5 @@ Morse Code Typing enables users to communicate by inputting Morse code through e
   - Proficiency increases accuracy over time.
 
 ---
+ 
 
-## Installation and Usage
-
-### Prerequisites
-- Python 3.7+
-- Webcam for real-time blink detection
-- Required libraries:
-  - `opencv-python`
-  - `GazeTracking`
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo-name.git
